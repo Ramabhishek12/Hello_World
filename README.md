@@ -1,2 +1,2 @@
 # Hello_World
-This basically a learning repository
+This is basically a learning repository
